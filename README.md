@@ -4,6 +4,6 @@
  - world
  - new thing 1
  - 02 // edit 01
- - new 03
+ - https://denny.one/git-slide/#76
 
  ## HELLO WORLD
